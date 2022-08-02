@@ -951,7 +951,7 @@ section {
   }
 }
 
-@media (max-width: 50px) {
+@media (max-width: 550px) {
   #menu-btn {
     display: inline-block;
   }
